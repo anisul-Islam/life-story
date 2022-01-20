@@ -7,3 +7,4 @@ I have started my full stack web development job in 2021.
 I will join at MFile 1st of December.
 logo alignment is centered.
 text align is centered.
+new line is added in feature branch
