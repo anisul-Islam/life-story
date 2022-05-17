@@ -9,3 +9,4 @@ logo alignment is centered.
 text align is centered.
 new line is added in feature branch
 
+hello i am mr a.
