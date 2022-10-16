@@ -1,12 +1,12 @@
-I born in 1990 march 12
+I was born in 1990 on march 12
 I have done my SSC in 2016
 I have complete my HSC in 2008
 I have completed my BSc in 2016
 I have completed my MSc in 2021
-I have started my full stack web development job in 2021.
+I started my full-stack web development job in 2021.
 I will join at MFile 1st of December.
 logo alignment is centered.
-text align is centered.
-new line is added in feature branch
+text-align is centered.
+the new line is added in the feature branch
 
-hello i am mr a.
+hello, I am Mr a.
