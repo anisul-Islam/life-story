@@ -8,5 +8,6 @@ I will join at MFile 1st of December.
 logo alignment is centered.
 text align is centered.
 new line is added in feature branch
-
 hello i am mr a.
+
+For practice git and github series i fork your repo and clone it my desktop.
