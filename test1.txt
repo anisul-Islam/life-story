@@ -4,9 +4,9 @@ I have complete my HSC in 2008
 I have completed my BSc in 2016
 I have completed my MSc in 2021
 I have started my full stack web development job in 2021.
-I will join at MFile 1st of December.
-logo alignment is centered.
-text align is centered.
+I will join at MPhil 1st of December.
+logo alignment is cantered.
+text align is cantered.
 new line is added in feature branch
 
-hello i am mr a.
+Hello i am mr Anisul
