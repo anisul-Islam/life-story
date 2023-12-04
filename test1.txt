@@ -10,3 +10,7 @@ text align is centered.
 new line is added in feature branch
 
 hello i am mr a.
+
+--------------------------------------------------------------------------
+Assalamu Alaikum, I am Md. Arif Mia. I am Full Stack Developer. I am student of Anisul Islam Bhai. Currently, I am learing Git & Github from his. My Github: https://github.com/arifmia1129
+--------------------------------------------------------------------------
