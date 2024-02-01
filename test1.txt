@@ -1,12 +1,6 @@
-I born in 1990 march 12
+I born in 1997 June 2
 I have done my SSC in 2016
-I have complete my HSC in 2008
-I have completed my BSc in 2016
-I have completed my MSc in 2021
-I have started my full stack web development job in 2021.
-I will join at MFile 1st of December.
-logo alignment is centered.
-text align is centered.
-new line is added in feature branch
-
-hello i am mr a.
+I have complete my HSC in 2018
+I have completed my BSc in 2023
+I have completed my MSc in 20--
+I have started my Sys Admin job in 2023.
